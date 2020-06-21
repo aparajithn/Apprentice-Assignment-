@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Apprentice Assignment 2</string>
+    <string name="app_name">Pexel Api Service</string>
+    <string name="image_desc">Image</string>
+    <string name="no_internet">There is no internet connection please try again</string>
+
 </resources>

@@ -9,7 +9,7 @@ data class ImageSearchResponse(
     val page: Int,
     @SerializedName("per_page")
     val perPage: Int,
-    val photos: List<Photo>,
+    val photos: MutableList<Photo>,
     @SerializedName("total_results")
     val totalResults: Int
 )
