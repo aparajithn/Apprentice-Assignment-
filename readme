@@ -4,4 +4,4 @@ the application supports pagination by dynamic loading the images as you scroll 
 To run this application : 
 Clone the repository into your local machine. 
 Open up Android Studio and open the project you just cloned. 
-You then should be able to run the application in an emulator or a physical device of your choose 
+You then should be able to run the application in an emulator or a physical device of your choosing
